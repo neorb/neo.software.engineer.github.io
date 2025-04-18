@@ -1,7 +1,7 @@
 # 🚀 **Anel Ramirez - Portfolio**  
 
 Welcome to my portfolio! 👋  
-I’m **Anel Ramirez**, a passionate **Android and Web Developer** with **3+ years of experience** creating scalable, user-friendly applications.  
+I’m **Anel Ramirez**, a passionate **Android, iOS and Web Developer** with **3+ years of experience** creating scalable, user-friendly applications.  
 
 ---
 
